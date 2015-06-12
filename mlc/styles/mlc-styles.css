@@ -1,0 +1,14 @@
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 15px;
+}
+
+
+#mlc-contain {
+	//border: 1px solid #948C75;
+	margin-left: auto;
+	margin-right: auto;
+	width: 55%;
+}

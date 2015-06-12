@@ -1,0 +1,115 @@
+[12-Apr-2015 12:47:36 America/New_York] PHP Notice:  Undefined index: destroy in /home/fiveqfle/public_html/rogermoore.io/mlc/self_delete.php on line 16
+[12-Apr-2015 12:51:43 America/New_York] PHP Notice:  Undefined index: destroy in /home/fiveqfle/public_html/rogermoore.io/mlc/self_delete.php on line 16
+[15-Apr-2015 16:46:02 America/New_York] PHP Notice:  Undefined variable: ip in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 40
+[15-Apr-2015 16:46:02 America/New_York] PHP Notice:  Undefined variable: loc_info in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 41
+[15-Apr-2015 16:46:02 America/New_York] PHP Notice:  Trying to get property of non-object in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 41
+[15-Apr-2015 17:01:50 America/New_York] PHP Warning:  mysqli::mysqli() expects parameter 1 to be string, object given in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 45
+[15-Apr-2015 17:01:50 America/New_York] PHP Fatal error:  Call to undefined method mysqli::bind_param() in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 46
+[15-Apr-2015 17:02:47 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 46
+[15-Apr-2015 17:02:48 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 46
+[15-Apr-2015 17:03:00 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 46
+[15-Apr-2015 17:04:35 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 46
+[15-Apr-2015 17:04:37 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 46
+[15-Apr-2015 17:07:00 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 48
+[15-Apr-2015 17:07:01 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 48
+[15-Apr-2015 17:07:51 America/New_York] PHP Notice:  Undefined variable: sever in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 49
+[15-Apr-2015 17:08:07 America/New_York] PHP Notice:  Undefined variable: sever in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 49
+[15-Apr-2015 17:13:41 America/New_York] PHP Fatal error:  Call to undefined function close() in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 57
+[15-Apr-2015 17:13:42 America/New_York] PHP Fatal error:  Call to undefined function close() in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 57
+[15-Apr-2015 17:17:14 America/New_York] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 57
+[15-Apr-2015 17:19:27 America/New_York] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 57
+[15-Apr-2015 17:21:08 America/New_York] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_row() in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 57
+[15-Apr-2015 17:22:58 America/New_York] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 54
+[15-Apr-2015 17:25:53 America/New_York] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 54
+[15-Apr-2015 17:39:45 America/New_York] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 54
+[15-Apr-2015 17:39:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 57
+[15-Apr-2015 17:40:07 America/New_York] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 54
+[15-Apr-2015 17:40:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 57
+[15-Apr-2015 17:40:27 America/New_York] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 54
+[15-Apr-2015 17:41:10 America/New_York] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 54
+[15-Apr-2015 17:43:45 America/New_York] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 54
+[15-Apr-2015 17:51:05 America/New_York] PHP Notice:  Undefined variable: server in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 30
+[15-Apr-2015 17:51:05 America/New_York] PHP Notice:  Undefined variable: user in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 30
+[15-Apr-2015 17:51:05 America/New_York] PHP Notice:  Undefined variable: pass in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 30
+[15-Apr-2015 17:51:05 America/New_York] PHP Notice:  Undefined variable: dbname in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 30
+[15-Apr-2015 17:51:05 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 30
+[15-Apr-2015 17:51:05 America/New_York] PHP Fatal error:  Call to undefined function prepare() in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 32
+[15-Apr-2015 17:51:44 America/New_York] PHP Warning:  mkdir(): File exists in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 12
+[15-Apr-2015 17:51:44 America/New_York] PHP Notice:  Undefined variable: server in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 30
+[15-Apr-2015 17:51:44 America/New_York] PHP Notice:  Undefined variable: user in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 30
+[15-Apr-2015 17:51:44 America/New_York] PHP Notice:  Undefined variable: pass in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 30
+[15-Apr-2015 17:51:44 America/New_York] PHP Notice:  Undefined variable: dbname in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 30
+[15-Apr-2015 17:51:44 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 30
+[15-Apr-2015 17:51:44 America/New_York] PHP Warning:  mysqli::prepare() expects exactly 1 parameter, 2 given in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 32
+[15-Apr-2015 17:51:44 America/New_York] PHP Fatal error:  Call to a member function bind_param() on null in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 33
+[15-Apr-2015 18:02:43 America/New_York] PHP Warning:  mysqli::prepare() expects exactly 1 parameter, 2 given in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 34
+[15-Apr-2015 18:02:43 America/New_York] PHP Fatal error:  Call to a member function bind_param() on null in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 35
+[15-Apr-2015 18:03:58 America/New_York] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(../cloaked//yt): failed to open dir: No such file or directory' in /home/fiveqfle/public_html/rogermoore.io/mlc/delete.php:21
+Stack trace:
+#0 /home/fiveqfle/public_html/rogermoore.io/mlc/delete.php(21): RecursiveDirectoryIterator->__construct('../cloaked//yt', 4096)
+#1 {main}
+  thrown in /home/fiveqfle/public_html/rogermoore.io/mlc/delete.php on line 21
+[15-Apr-2015 18:04:03 America/New_York] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(../cloaked//yt): failed to open dir: No such file or directory' in /home/fiveqfle/public_html/rogermoore.io/mlc/delete.php:21
+Stack trace:
+#0 /home/fiveqfle/public_html/rogermoore.io/mlc/delete.php(21): RecursiveDirectoryIterator->__construct('../cloaked//yt', 4096)
+#1 {main}
+  thrown in /home/fiveqfle/public_html/rogermoore.io/mlc/delete.php on line 21
+[15-Apr-2015 18:12:37 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:12:37 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:16:12 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:16:12 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:16:29 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:16:29 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:17:38 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:17:38 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:17:40 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:17:40 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:19:28 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:19:28 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:19:43 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:19:43 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:19:44 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:19:44 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:25:41 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:25:41 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:27:19 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:27:19 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:27:19 America/New_York] PHP Fatal error:  Call to a member function execute() on boolean in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 36
+[15-Apr-2015 18:27:21 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:27:21 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:27:21 America/New_York] PHP Fatal error:  Call to a member function execute() on boolean in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 36
+[15-Apr-2015 18:28:07 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:28:07 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:28:07 America/New_York] PHP Fatal error:  Call to a member function execute() on boolean in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 36
+[15-Apr-2015 18:30:25 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:30:25 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:30:25 America/New_York] PHP Fatal error:  Call to undefined function db_query() in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 40
+[15-Apr-2015 18:30:27 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:30:27 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:30:27 America/New_York] PHP Fatal error:  Call to undefined function db_query() in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 40
+[15-Apr-2015 18:31:31 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:31:31 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:31:31 America/New_York] PHP Warning:  mysqli::mysqli() expects parameter 1 to be string, object given in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 40
+[15-Apr-2015 18:31:31 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, object given in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 46
+[15-Apr-2015 18:31:31 America/New_York] PHP Notice:  Array to string conversion in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 51
+[15-Apr-2015 18:31:44 America/New_York] PHP Parse error:  syntax error, unexpected '$rows' (T_VARIABLE) in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 51
+[15-Apr-2015 18:32:02 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:32:02 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:32:02 America/New_York] PHP Warning:  mysqli::mysqli() expects parameter 1 to be string, object given in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 40
+[15-Apr-2015 18:32:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, object given in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 46
+[15-Apr-2015 18:32:03 America/New_York] PHP Warning:  copy(../cloaked/test/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[15-Apr-2015 18:32:03 America/New_York] PHP Warning:  copy(../cloaked/test/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[15-Apr-2015 18:32:03 America/New_York] PHP Warning:  mysqli::mysqli() expects parameter 1 to be string, object given in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 40
+[15-Apr-2015 18:32:03 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, object given in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 46
+[03-May-2015 11:51:32 America/New_York] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 54
+[03-May-2015 11:53:16 America/New_York] PHP Warning:  copy(../cloaked/goo/config.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 27
+[03-May-2015 11:53:16 America/New_York] PHP Warning:  copy(../cloaked/goo/functions.php): failed to open stream: No such file or directory in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 28
+[03-May-2015 11:53:16 America/New_York] PHP Warning:  mysqli::mysqli() expects parameter 1 to be string, object given in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 40
+[03-May-2015 11:53:16 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, object given in /home/fiveqfle/public_html/rogermoore.io/mlc/add_link.php on line 46
+[12-Jun-2015 11:18:38 America/New_York] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(../cloaked//test): failed to open dir: No such file or directory' in /home/fiveqfle/public_html/rogermoore.io/mlc/delete.php:21
+Stack trace:
+#0 /home/fiveqfle/public_html/rogermoore.io/mlc/delete.php(21): RecursiveDirectoryIterator->__construct('../cloaked//tes...', 4096)
+#1 {main}
+  thrown in /home/fiveqfle/public_html/rogermoore.io/mlc/delete.php on line 21
+[12-Jun-2015 11:18:45 America/New_York] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 54
+[12-Jun-2015 11:36:54 America/New_York] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fiveqfle/public_html/rogermoore.io/mlc/statistics.php on line 54
